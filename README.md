@@ -34,7 +34,7 @@ Multicollinearity can significantly impact the reliability of regression analysi
 By addressing multicollinearity, we can improve the stability and accuracy of linear regression models, leading to more reliable predictions and better insights into the relationships between independent variables.
 
 ## Contributors
-- [Your Name](https://github.com/chetan-codes)
+- [Chetan Choudhary](https://github.com/chetan-codes)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
